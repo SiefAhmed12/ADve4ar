@@ -1,0 +1,20 @@
+ 
+  .header-links a:hover {
+    background-color: rgb(146, 146, 197);
+  }
+  .body{
+    margin: 0;
+}
+.header{
+  display: flex;
+    justify-content: center;
+   align-items: center;
+   padding: 25px 50px 75px 100px;
+   font:100px
+ sans-serif;
+
+}
+.header-links{
+    padding: 25px 50px 75px 100px;
+
+}
